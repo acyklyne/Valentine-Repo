@@ -13,7 +13,7 @@ export default function Yes() {
             <h1 className="header_text">Yay! Gae ka</h1>
           </div>
           <div className="gif_container">
-            <Link href="https://ccs-112-midterm-profile-2uhl-a0fv6iq4p-acyklynes-projects.vercel.app/" target="_blank">
+            <Link href="https://drive.google.com/file/d/10Yrm4hEPMOnU-FBDmsIJaEs8_KyLe2gM/view?usp=sharing" target="_blank">
               <img 
                 src="https://i.gifer.com/Pak.gif" 
                 alt="Cute animated illustration" 
