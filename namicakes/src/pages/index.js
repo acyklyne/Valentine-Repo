@@ -88,7 +88,7 @@ export default function Home() {
       </div>
       <div className="container">
         <div>
-          <h1 className="header_text">Will you be my valentine?</h1>
+          <h1 className="header_text">Will you be my valentine, bubby?</h1>
         </div>
         <div className="gif_container">
           <img 
